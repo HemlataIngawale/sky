@@ -2,4 +2,6 @@
 void main()
 {
 printf("hi fycs.....!");
+  printf("hi cs.....!");
 }
+
